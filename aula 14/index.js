@@ -24,7 +24,7 @@ console.log(a,b);
 a.push(4); // apontam para o mesmo valor na memoria (a e b)
 console.log(a,b);
 
-b.pop();
+b.pop(); 
 console.log(a,b);
 */
 
